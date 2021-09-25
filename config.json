@@ -1,0 +1,74 @@
+[
+    {
+        "key": "sb",
+        "value": "j1A3Yedb924rOXg7TRO9rIrC",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2021-09-25T05:35:41.653Z",
+        "lastAccessed": "2021-09-25T05:35:41.653Z"
+    },
+    {
+        "key": "locale",
+        "value": "vi_VN",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2021-09-25T05:35:41.653Z",
+        "lastAccessed": "2021-09-25T05:35:41.653Z"
+    },
+    {
+        "key": "wd",
+        "value": "1366x657",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2021-09-25T05:35:41.653Z",
+        "lastAccessed": "2021-09-25T05:35:41.653Z"
+    },
+    {
+        "key": "c_user",
+        "value": "100073035430428",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2021-09-25T05:35:41.653Z",
+        "lastAccessed": "2021-09-25T05:35:41.653Z"
+    },
+    {
+        "key": "datr",
+        "value": "KLVOYQtRywGqCqETgjIJl9-S",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2021-09-25T05:35:41.653Z",
+        "lastAccessed": "2021-09-25T05:35:41.653Z"
+    },
+    {
+        "key": "spin",
+        "value": "r.1004456510_b.trunk_t.1632548138_s.1_v.2_",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2021-09-25T05:35:41.653Z",
+        "lastAccessed": "2021-09-25T05:35:41.653Z"
+    },
+    {
+        "key": "xs",
+        "value": "11%3AKd3cMLiMzYi2Mg%3A2%3A1632548134%3A-1%3A445%3A%3AAcWZtS9el7OkhSIqD39_pYrS75we70QNb0YlcxN1Gg",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2021-09-25T05:35:41.653Z",
+        "lastAccessed": "2021-09-25T05:35:41.653Z"
+    },
+    {
+        "key": "fr",
+        "value": "0SzPVXHbX8Ifq4cLt.AWVLtCIJ3BYwty6sGEuG6driKxg.BhTrUs.HW.AAA.0.0.BhTrUs.AWXRYJAYzdY",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2021-09-25T05:35:41.653Z",
+        "lastAccessed": "2021-09-25T05:35:41.653Z"
+    }
+]
